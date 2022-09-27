@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "61a4e81c720ae0e4dae26e56"
+  },
+  "identifyNumber": "001356121",
+  "password": "$2b$12$pLbkjxRsLVQCYJw4NzH4fOjTAwloLt0s4dv39holK8qTsRu/r3enK",
+  "email": "kiend9814@gmail.com",
+  "phoneNumber": "0978262109",
+  "name": "Nguyễn Thúy Nga",
+  "address": "hanoi vietnam",
+  "staffID": "1638197276508",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a4e8e1720ae0e4dae26e77"
+  },
+  "identifyNumber": "001201011",
+  "password": "$2b$12$ViFfsu0.ETAYbn8/KvFODeeXpau3a6kkUS2bthllQ7j.ko5Ww2kXS",
+  "email": "kiend9814@gmail.com",
+  "phoneNumber": "0978252102",
+  "name": "Dao Trung Kien ",
+  "address": "hanoi vietnnam",
+  "staffID": "1638197473144",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b1d6edd01c847ad9373f83"
+  },
+  "identifyNumber": "112244551",
+  "password": "$2b$12$QQ2w0MuVDuZ78LZNhxDtKu25n7JYSwVsPBx20YVk.LcHdxMY1067G",
+  "email": "hung@gmail.com",
+  "phoneNumber": "0984796531",
+  "name": "Trần Kim Hùng",
+  "address": "Hà tTinhx",
+  "staffID": "1639044845181",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5945c0dd643df37513a64"
+  },
+  "identifyNumber": "201004577",
+  "password": "$2b$12$/g8.Ev8ZJ0QFo02lUJIXLOSZTvXgQMt0gBDBTpPgkR9ZOx7ZMK3lK",
+  "email": "hieutest@gmail.com",
+  "phoneNumber": "0976784563",
+  "name": "Vũ Minh Hiếu ",
+  "address": "Vĩnh Phúc",
+  "staffID": "1639289948826",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dafb96dbd67d358acbeec0"
+  },
+  "identifyNumber": "123456789",
+  "password": "$2b$12$0HgeD8QzuH9NPEfkG7.qw.M9bPJobifpPSXbpz28ctySc2RTvcLbC",
+  "email": "long@gmail.com",
+  "phoneNumber": "0875673333",
+  "name": "Nguyễn Quang Long",
+  "address": "BN",
+  "staffID": "1641741206503",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e39182595d7685dec7006b"
+  },
+  "identifyNumber": "987654321",
+  "password": "$2b$12$xjQDPhM/ohrepATF.j84LOzpeI1BzLRt2evqDrhr6I/epgLaSAmpq",
+  "email": "ronaltanface@gmail.com",
+  "phoneNumber": "0918108222",
+  "name": "Pham Ngoc Tan",
+  "address": "ádasd",
+  "staffID": "1642303874656",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e3b6951d68700be58b2d2e"
+  },
+  "identifyNumber": "026201004",
+  "password": "$2b$12$t6be8SgOuwGodMwMt0pYouV1jrCPxvNWwm2nTPKChFL8l8zLsK/Dq",
+  "email": "hieu@gmail.com",
+  "phoneNumber": "0987814506",
+  "name": "Vũ Minh Hiếu (2)",
+  "address": "Vĩnh Phúc",
+  "staffID": "1642313365345",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e41fec8e24f13bb457ec18"
+  },
+  "identifyNumber": "125949827",
+  "password": "$2b$12$KxQEyDzApu6gT0ByFNOOr.2qoEuq21NS.UnQp4HV2abxxJf.XR11i",
+  "email": "leduchien8901@gmail.com",
+  "phoneNumber": "0353268901",
+  "name": "Lê Đức Hiển",
+  "address": "Lan La",
+  "staffID": "1642340332302",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6262ba5b9ca5c379eee423c3"
+  },
+  "identifyNumber": "023569876",
+  "password": "$2b$12$Q2.I7dAB7XHGtVnBkbzsE.rrF8JimM.AIraU2.ucRuJd4TJyvDquy",
+  "email": "telles@gmail.com",
+  "phoneNumber": "0965876655",
+  "name": "Alex Telles",
+  "address": "123123",
+  "staffID": "1650637403765",
+  "role": "staff",
+  "__v": 0
+}]

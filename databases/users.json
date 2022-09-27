@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "identifyNumber": "123123123",
+  "password": "$2b$12$mBMoOK8Fwx.puoBO5XrO5eF4YsOu2wlhwDLLk2l1GB117CHUqhFnm",
+  "email": "httpgunnyazoo@gmail.com",
+  "phoneNumber": "0987654443",
+  "name": "Tran Nhat Minh",
+  "balance": 287785908.00555557,
+  "residentID": "123123123",
+  "activate": "true",
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61da93b4bfb8f30bd8780060"
+  },
+  "identifyNumber": "123456789104",
+  "password": "$2b$12$wcCAGHHGDAWeQwAGXmOGHeJRoKb4QCRnBetG6sel4mfxpTSiQp0OO",
+  "email": "user110@gmail.com",
+  "phoneNumber": "097825210",
+  "name": "Dao trung Kien ",
+  "balance": 13013000,
+  "residentID": "A2001",
+  "activate": "true",
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e3b7231d68700be58b2da4"
+  },
+  "identifyNumber": "012642711",
+  "password": "$2b$12$w7v54KYEr.trgsteBSAHIuDfbX2okfDHzG1PeocEdWf7rk6fm8jkq",
+  "email": "kiend9814@gmail.com",
+  "phoneNumber": "0978252102",
+  "name": "Đào Trung Kiên",
+  "balance": 0,
+  "residentID": "A2004",
+  "activate": "false",
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626400ed38d2b179c10e5c99"
+  },
+  "identifyNumber": "789789789",
+  "password": "$2b$12$U4HcoJyV6BjJJC0KhsgniO34CjGbn1X./P0g1G.tgfPO4fpjN2UZK",
+  "email": "ad28@gmail.com",
+  "phoneNumber": "0912489346",
+  "name": "Nguyen Anh Dung",
+  "balance": 0,
+  "residentID": "789789789",
+  "activate": "false",
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62662dfb11ef04658a481561"
+  },
+  "identifyNumber": "281120011",
+  "password": "$2b$12$pWWh0wwrlxrDSC1Hyv3VOua2PZwFdhuq4Gim9i4nmu9UoZpv7L80e",
+  "email": "nguyenanhdung281101@gmail.com",
+  "phoneNumber": "0972873688",
+  "name": "Dung Nguyen Anh",
+  "balance": 10000000,
+  "residentID": "281120012",
+  "activate": "true",
+  "role": "user",
+  "__v": 0
+}]

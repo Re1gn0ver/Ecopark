@@ -1,0 +1,281 @@
+[{
+  "_id": {
+    "$oid": "61dac8cf34840dcdb4524b91"
+  },
+  "amount": "1000000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641728207391"
+    }
+  },
+  "__v": 0,
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  }
+},{
+  "_id": {
+    "$oid": "61dafe51dbd67d358acbef4d"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "1100000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641741905190"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dafea8dbd67d358acbef83"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "1188000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641741992491"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dafee9dbd67d358acbef9b"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "1311000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641742057061"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61daff41dbd67d358acbefaf"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "2310000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641742145276"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61db00e5dbd67d358acbeffc"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "2766000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641742565718"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61db1aa7927f9536341a9b28"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "1000000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641749159934"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dce27c32ff2063ab56f087"
+  },
+  "user": {
+    "$oid": "61da93b4bfb8f30bd8780060"
+  },
+  "amount": "1500000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641865852790"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dce2addef818115867b17a"
+  },
+  "user": {
+    "$oid": "61da93b4bfb8f30bd8780060"
+  },
+  "amount": "1500000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641865901685"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dce34097a1f2703d1a76d5"
+  },
+  "user": {
+    "$oid": "61da93b4bfb8f30bd8780060"
+  },
+  "amount": "1500000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641866048812"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dce51af9d066d460299a70"
+  },
+  "user": {
+    "$oid": "61da93b4bfb8f30bd8780060"
+  },
+  "amount": "6001000",
+  "time": {
+    "$date": {
+      "$numberLong": "1641866522605"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dcefda91853cfb38c3eb0a"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "1096905",
+  "time": {
+    "$date": {
+      "$numberLong": "1641869274711"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dcf26191853cfb38c3ed42"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "3093810",
+  "time": {
+    "$date": {
+      "$numberLong": "1641869921395"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dcf26b91853cfb38c3ed49"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "5197620",
+  "time": {
+    "$date": {
+      "$numberLong": "1641869931787"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e2e4071c6a2dcbff147fd2"
+  },
+  "user": {
+    "$oid": "61da93b4bfb8f30bd8780060"
+  },
+  "amount": "1000000",
+  "time": {
+    "$date": {
+      "$numberLong": "1642259463280"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e38e45595d7685dec6fff6"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "133507977",
+  "time": {
+    "$date": {
+      "$numberLong": "1642303045270"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e38fb4595d7685dec6ffff"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "amount": "143892954",
+  "time": {
+    "$date": {
+      "$numberLong": "1642303412741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e420cf8e24f13bb457ec36"
+  },
+  "user": {
+    "$oid": "61da93b4bfb8f30bd8780060"
+  },
+  "amount": "10000",
+  "time": {
+    "$date": {
+      "$numberLong": "1642340559241"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e4477c693f61f2b3a3d7cb"
+  },
+  "user": {
+    "$oid": "61da93b4bfb8f30bd8780060"
+  },
+  "amount": "2000",
+  "time": {
+    "$date": {
+      "$numberLong": "1642350460816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62662e5b11ef04658a48157f"
+  },
+  "user": {
+    "$oid": "62662dfb11ef04658a481561"
+  },
+  "amount": "10000000",
+  "time": {
+    "$date": {
+      "$numberLong": "1650863707858"
+    }
+  },
+  "__v": 0
+}]

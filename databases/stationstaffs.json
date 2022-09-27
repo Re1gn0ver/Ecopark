@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "618bd016e819f6e2ee1abd11"
+  },
+  "identifyNumber": "123456789",
+  "userName": "hungtk",
+  "password": "122sfsgD@",
+  "email": "hugn@gmail.com",
+  "phoneNumber": "0984796539",
+  "address": "Hà Tĩnh",
+  "name": "Trần Kim Hùng",
+  "staffID": "1636552726539",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6199c391598299b3cf313383"
+  },
+  "identifyNumber": "258147369",
+  "password": "$2b$12$VJcGG6JUXrz7gcTOcZ/ZQO5m2x.Wj2i7Khif43Mn9Eq/C/V16AXW2",
+  "email": "hieuvm194284@gmail.com",
+  "phoneNumber": "0976784563",
+  "name": "Vũ Minh Hiếu ",
+  "staffID": "1637467025884",
+  "role": "staff",
+  "__v": 0,
+  "address": "Vĩnh Phúc"
+},{
+  "_id": {
+    "$oid": "619c547505c30cd71d221cc7"
+  },
+  "identifyNumber": "201004952",
+  "password": "$2b$12$BtiwgUyhmIcZNyboZ1Sf.eG1IgrOLj5021tLf87uAb3PfRyPGrfJu",
+  "email": "trungnguyen@gmail.com",
+  "phoneNumber": "0987456369",
+  "name": "Phạm Trung Nguyên",
+  "address": "Vĩnh Phúc",
+  "staffID": "1637635189344",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619c54ed05c30cd71d221cfa"
+  },
+  "identifyNumber": "201004235",
+  "password": "$2b$12$j3vaGpibwVDyWUzbFmBrPOoWkYDKN3M.Vp9jDT4K5vA7BrqQ7veGy",
+  "email": "honghai@gmail.com",
+  "phoneNumber": "0976842587",
+  "name": "Đặng Thị Hồng Hải",
+  "address": "Vĩnh Phúc",
+  "staffID": "1637635309084",
+  "role": "staff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619c5a2e05c30cd71d221d7f"
+  },
+  "identifyNumber": "201005321",
+  "password": "$2b$12$h7g.rTlDCzgkA1u46zPep.n.obgyoYfJjuH78okK/cIfpl9xJ5rLW",
+  "email": "quangtruong@gmail.com",
+  "phoneNumber": "0986587453",
+  "name": "Lưu Quang Trường",
+  "address": "Vĩnh Phúc",
+  "staffID": "1637636654570",
+  "role": "staff",
+  "__v": 0
+}]

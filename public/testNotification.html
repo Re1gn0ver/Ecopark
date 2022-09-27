@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <title>Browser Notification</title>
+    <script src="https://cdn.socket.io/4.4.0/socket.io.min.js"
+        integrity="sha384-1fOn6VtTq3PWwfsOrk45LnYcGosJwzMHv+Xh/Jx5303FVOXzEnw0EpLv30mtjmlj"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <button type="button" name="button" onclick="setNotification()">
+        Send Notification
+    </button>
+    <script>
+        var data={
+            id:1,
+            name:"kien",
+            age:20
+        }
+        let socket = io.connect("https://nmcnpm.herokuapp.com/", {
+            reconnection: false
+        });
+
+        socket.on('connect', function () {
+            socket.emit('data',data)
+
+            socket.on('an event',function(data){
+                console.log(data);
+            })
+        });
+
+    </script>
+</body>
+
+</html>

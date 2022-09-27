@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "619caae9d6eadc68431c5132"
+  },
+  "name": "so 1 Dai Co viet",
+  "longtitude": 20.13171,
+  "latitude": 108.17152,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a1f974a246450ae0e1d14e"
+  },
+  "name": "Pho trang thi",
+  "longtitude": 20.028716,
+  "latitude": 104.101021,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a4e9fd726847a03c47cc9e"
+  },
+  "name": "số 15 Lý thường kiệt",
+  "longtitude": 20.028152,
+  "latitude": 100.726351,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae228bd6c44d8a7601a78a"
+  },
+  "name": "Làng Hà Lan ecopark",
+  "longtitude": 20.965475,
+  "latitude": 105.92957,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae231dd6c44d8a7601a78e"
+  },
+  "name": "Đại học Anh Quốc",
+  "longtitude": 20.96620680411347,
+  "latitude": 105.93147205567043,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b365f2da199b6b05219abf"
+  },
+  "name": "Hồ thiên nga Ecopark",
+  "longtitude": 21.96620680411347,
+  "latitude": 104.6262553525254,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b3663fda199b6b05219ac3"
+  },
+  "name": "Biệt thự đảo Ecopark Grand",
+  "longtitude": 21.82726353434422,
+  "latitude": 104.1763553224444,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b36777da199b6b05219b72"
+  },
+  "name": "Biệt thự vườn mai Ecopark",
+  "longtitude": 20.9695563,
+  "latitude": 105.9301491,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b367cada199b6b05219b85"
+  },
+  "name": "Trường Đào Tạo Vietcombank",
+  "longtitude": 20.9693071,
+  "latitude": 105.9302377,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b57d290dd643df37512910"
+  },
+  "name": "test địa điểm",
+  "longtitude": 20.00013663,
+  "latitude": 102.7353523233233,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b593c80dd643df37513a4e"
+  },
+  "name": "ĐHBK",
+  "longtitude": 21.0044368,
+  "latitude": 105.8441887,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b59a3f0dd643df37513d47"
+  },
+  "name": "SVĐBK",
+  "longtitude": 21.0028048,
+  "latitude": 105.8464402,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b612ab581b8add2e98b8c1"
+  },
+  "name": "Hà Tĩnh",
+  "longtitude": 112.12,
+  "latitude": 11.14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b7f5b577345065a7ae3755"
+  },
+  "name": "CNPM",
+  "longtitude": 3213,
+  "latitude": 12312321,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61befc4ca9f6263e0f492455"
+  },
+  "name": "77 Hồ Ngọc Lân",
+  "longtitude": 1231231,
+  "latitude": 123123123,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61befdb5a9f6263e0f492519"
+  },
+  "name": "77 Hồ Ngọc",
+  "longtitude": 1231231,
+  "latitude": 12312321,
+  "__v": 0
+}]

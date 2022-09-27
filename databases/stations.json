@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "619e7bc033bbc513096ead10"
+  },
+  "staff": {
+    "$oid": "61b2d317f1dac78f4df8af31"
+  },
+  "location": {
+    "$oid": "61b587ad0dd643df375136cf"
+  },
+  "__v": 0,
+  "name": "Bốt số 2",
+  "phoneNumber": "19005656",
+  "name_lower": "bốt số 2",
+  "isDelete": "false"
+},{
+  "_id": {
+    "$oid": "61a3aab88db24a7235ef7b4d"
+  },
+  "staff": {
+    "$oid": "61a4e8e1720ae0e4dae26e77"
+  },
+  "location": {
+    "$oid": "61a1f974a246450ae0e1d14e"
+  },
+  "name": "Bốt số 1",
+  "phoneNumber": "01019999",
+  "isDelete": true,
+  "__v": 0,
+  "name_lower": "bốt số 1"
+},{
+  "_id": {
+    "$oid": "61a4eb9fb54197c925cf1106"
+  },
+  "staff": {
+    "$oid": "61e3b6951d68700be58b2d2e"
+  },
+  "location": {
+    "$oid": "61a4e9fd726847a03c47cc9e"
+  },
+  "name": "Bốt số 3",
+  "name_lower": "bốt số 3",
+  "phoneNumber": "19000101",
+  "isDelete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "staff": {
+    "$oid": "61b1d6edd01c847ad9373f83"
+  },
+  "location": {
+    "$oid": "61ae231dd6c44d8a7601a78e"
+  },
+  "name": "bốt số 4",
+  "name_lower": "bốt số 4",
+  "phoneNumber": "19000202",
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b36537da199b6b05219aba"
+  },
+  "staff": {
+    "$oid": "61b1d6edd01c847ad9373f83"
+  },
+  "location": {
+    "$oid": "61ae228bd6c44d8a7601a78a"
+  },
+  "name": "bốt số 5",
+  "name_lower": "bốt số 5",
+  "phoneNumber": "19001001",
+  "isDelete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b60a55581b8add2e98b7f1"
+  },
+  "staff": {
+    "$oid": "61b5945c0dd643df37513a64"
+  },
+  "location": {
+    "$oid": "61b365f2da199b6b05219abf"
+  },
+  "name": "Test Bốt",
+  "name_lower": "test bốt",
+  "phoneNumber": "0984796531",
+  "isDelete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b6144c581b8add2e98b8df"
+  },
+  "staff": {
+    "$oid": "61b3685dda199b6b05219bf2"
+  },
+  "location": {
+    "$oid": "61b612ab581b8add2e98b8c1"
+  },
+  "name": "Oke ",
+  "name_lower": "oke ",
+  "phoneNumber": "0984796539",
+  "isDelete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b62c4625810162fdac95bd"
+  },
+  "staff": {
+    "$oid": "61a4e81c720ae0e4dae26e56"
+  },
+  "location": {
+    "$oid": "61b367cada199b6b05219b85"
+  },
+  "name": "Hung",
+  "name_lower": "hung",
+  "phoneNumber": "0984796535",
+  "isDelete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b7728f3af0cf51dddd9286"
+  },
+  "staff": {
+    "$oid": "61b2d317f1dac78f4df8af31"
+  },
+  "location": {
+    "$oid": "61ae228bd6c44d8a7601a78a"
+  },
+  "name": "Bốt Test vui",
+  "name_lower": "bốt test vui",
+  "phoneNumber": "123123123",
+  "isDelete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b7f5c077345065a7ae375e"
+  },
+  "staff": {
+    "$oid": "61b2d317f1dac78f4df8af31"
+  },
+  "location": {
+    "$oid": "619caae9d6eadc68431c5132"
+  },
+  "name": "Bốt xe số 10",
+  "name_lower": "bốt xe số 10",
+  "phoneNumber": "0235467891",
+  "isDelete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b7fdd277345065a7ae3b7e"
+  },
+  "staff": {
+    "$oid": "61b5945c0dd643df37513a64"
+  },
+  "location": {
+    "$oid": "61b7f5b577345065a7ae3755"
+  },
+  "name": "Trần Kim Hùng",
+  "name_lower": "trần kim hùng",
+  "phoneNumber": "0984796531",
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61befc58a9f6263e0f49245e"
+  },
+  "staff": {
+    "$oid": "61a3a8b81293366918ae869e"
+  },
+  "location": {
+    "$oid": "61b365f2da199b6b05219abf"
+  },
+  "name": "Bốt số 190",
+  "name_lower": "bốt số 190",
+  "phoneNumber": "0235467891",
+  "isDelete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61befdbea9f6263e0f492522"
+  },
+  "staff": {
+    "$oid": "61a3a8b81293366918ae869e"
+  },
+  "location": {
+    "$oid": "619caae9d6eadc68431c5132"
+  },
+  "name": "Bốt mới",
+  "name_lower": "bốt mới",
+  "phoneNumber": "0235467891",
+  "isDelete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d944c7c749ad8084e2a53e"
+  },
+  "staff": {
+    "$oid": "61a4e8e1720ae0e4dae26e77"
+  },
+  "location": {
+    "$oid": "61b593c80dd643df37513a4e"
+  },
+  "name": "Bốt số 5",
+  "name_lower": "bốt số 5",
+  "phoneNumber": "0978252102",
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e44198693f61f2b3a3d2e3"
+  },
+  "staff": {
+    "$oid": "61e41fec8e24f13bb457ec18"
+  },
+  "location": {
+    "$oid": "61b36777da199b6b05219b72"
+  },
+  "name": "Bot moi",
+  "name_lower": "bot moi",
+  "phoneNumber": "0235467891",
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62661da72be971291193d728"
+  },
+  "staff": {
+    "$oid": "6262ba5b9ca5c379eee423c3"
+  },
+  "location": {
+    "$oid": "61b365f2da199b6b05219abf"
+  },
+  "name": "Anh Dung",
+  "name_lower": "anh dung",
+  "phoneNumber": "0972873688",
+  "isDelete": false,
+  "__v": 0
+}]

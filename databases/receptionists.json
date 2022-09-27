@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "61dad13ddeb60eb7374e3977"
+  },
+  "identifyNumber": "654145516",
+  "password": "$2b$12$QYX0OMNz2HI0tnCMWzqfOuc2CEjK4gCE1Qr7gJF.93Ei01BFov02G",
+  "email": "hungtest@gmail.com",
+  "phoneNumber": "0812345588",
+  "name": "Kim Hùng",
+  "address": "Hà Tĩnh",
+  "receptionistID": "1641730365859",
+  "role": "receptionist",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dafa85fa44241779448633"
+  },
+  "identifyNumber": "123456666",
+  "password": "$2b$12$g4BIFY4//9MPxvh3g3MreevamGjymPVn7oHsgPP2NrtuwiJ5I/cYW",
+  "email": "admin11@gmail.com",
+  "phoneNumber": "0894354683",
+  "name": "Lê Đức Hiển cute",
+  "address": "Hà Nam",
+  "receptionistID": "1641740933166",
+  "role": "receptionist",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dafcb1dbd67d358acbef16"
+  },
+  "identifyNumber": "112211221",
+  "password": "$2b$12$aWM2UUzLeYywlf7DCWZ5ou2BWwHx860t2ODjQCefXy1sJiAy74lDq",
+  "email": "kiend9814@gmail.com",
+  "phoneNumber": "0122112212",
+  "name": "Kiên",
+  "address": "Hà Nam",
+  "receptionistID": "1641741489337",
+  "role": "receptionist",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61db1b3626563c3e8fc277c5"
+  },
+  "identifyNumber": "123123123",
+  "password": "$2b$12$aY/9jvZuOwBjI3eduWrFBejqCtGSwFnxOF035//xCoK9IcqblScQu",
+  "email": "ronaltanface@gmail.com",
+  "phoneNumber": "1231231231",
+  "name": "Pham Ngoc Tan",
+  "address": "ádasd",
+  "receptionistID": "1641749302711",
+  "role": "receptionist",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dba896c1ee2be517887da7"
+  },
+  "identifyNumber": "123456789",
+  "password": "$2b$12$yMCSOxAuyehv87seMiVZs.nuYPQnrZZM/MTPva4ZeGVbooy3SKOS.",
+  "email": "long@gmail.com",
+  "phoneNumber": "0875673333",
+  "name": "Nguyễn Quang Long",
+  "address": "BN",
+  "receptionistID": "1641785494238",
+  "role": "receptionist",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e41fc88e24f13bb457ec0b"
+  },
+  "identifyNumber": "125949827",
+  "password": "$2b$12$FNCgECmUTrm8zUpNjXXSC.V8rQx87sAtTD5ypPHIPpdapCw61/KrS",
+  "email": "leduchien8901@gmail.com",
+  "phoneNumber": "0353268901",
+  "name": "Lê Đức Hiển",
+  "address": "Lan La",
+  "receptionistID": "1642340296450",
+  "role": "receptionist",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6262bb619ca5c379eee424bd"
+  },
+  "identifyNumber": "869436999",
+  "password": "$2b$12$vGGBSWgxrJRCbk9NBBJCSej7wNEqLLVvXaYAuxKQlYaSNMGISpOu6",
+  "email": "Shaw@gmail.com",
+  "phoneNumber": "0912568943",
+  "name": "Luke Shaw",
+  "address": "England",
+  "receptionistID": "1650637665761",
+  "role": "receptionist",
+  "__v": 0
+}]

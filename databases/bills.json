@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "61dbaf110f3e52ddb146057f"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "station": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "endStation": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "bike": {
+    "$oid": "61b78fc14333e3419fc0a1ec"
+  },
+  "rentDate": "1641787363941",
+  "endDate": "1641787677325",
+  "total": 1305.7666666666669,
+  "isCancel": false,
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc74fb5689a5e30f997579"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "station": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "endStation": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "bike": {
+    "$oid": "61b78fc14333e3419fc0a1ee"
+  },
+  "rentDate": "1641837845293",
+  "endDate": "1641838031748",
+  "total": 776.8958333333334,
+  "isCancel": false,
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc75f05689a5e30f99964e"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "station": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "endStation": null,
+  "bike": {
+    "$oid": "61befe68a9f6263e0f49258e"
+  },
+  "rentDate": "1641838066641",
+  "endDate": null,
+  "total": -1,
+  "isCancel": true,
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc7d3f2d8581d000380766"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "station": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "endStation": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "bike": {
+    "$oid": "61befe68a9f6263e0f492590"
+  },
+  "rentDate": "1641840140230",
+  "endDate": "1641840737239",
+  "total": 1658.3583333333336,
+  "isCancel": false,
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc8075aa4ab02054094858"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "station": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "endStation": null,
+  "bike": {
+    "$oid": "61befe68a9f6263e0f49258d"
+  },
+  "rentDate": null,
+  "endDate": null,
+  "total": null,
+  "isCancel": false,
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc80f0aa4ab02054095b34"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "station": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "endStation": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "bike": {
+    "$oid": "61befe68a9f6263e0f49258f"
+  },
+  "rentDate": "1641867760546",
+  "endDate": "1641867808649",
+  "total": 133.61944444444444,
+  "isCancel": false,
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dcec0e91853cfb38c3ea14"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "station": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "endStation": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "bike": {
+    "$oid": "61b78fc14333e3419fc0a1ef"
+  },
+  "rentDate": "1641868591405",
+  "endDate": "1641868717539",
+  "total": 525.5583333333333,
+  "isCancel": false,
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dcf3ac91853cfb38c3eda9"
+  },
+  "user": {
+    "$oid": "61af8572deb5f7c7c43ca0ce"
+  },
+  "station": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "endStation": {
+    "$oid": "61b364f7da199b6b05219ab5"
+  },
+  "bike": {
+    "$oid": "61b78fc14333e3419fc0a1f1"
+  },
+  "rentDate": "1641870292091",
+  "endDate": "1641870355346",
+  "total": 263.5625,
+  "isCancel": false,
+  "isDelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62662f4d11ef04658a4815b5"
+  },
+  "user": {
+    "$oid": "62662dfb11ef04658a481561"
+  },
+  "station": {
+    "$oid": "61a3aab88db24a7235ef7b4d"
+  },
+  "endStation": null,
+  "bike": {
+    "$oid": "61b769f73af0cf51dddd8ff5"
+  },
+  "rentDate": "1650863960685",
+  "endDate": null,
+  "total": -1,
+  "isCancel": false,
+  "isDelete": false,
+  "__v": 0
+}]
