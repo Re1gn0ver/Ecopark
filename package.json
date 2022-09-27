@@ -1,0 +1,26 @@
+{
+  "name": "se.20212.group504",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvhoangICT/SE.20212.Group504.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvhoangICT/SE.20212.Group504/issues"
+  },
+  "homepage": "https://github.com/nvhoangICT/SE.20212.Group504#readme",
+  "devDependencies": {
+    "concurrently": "^7.2.1"
+  },
+  "dependencies": {
+    "@react-navigation/native-stack": "^6.6.2"
+  }
+}
